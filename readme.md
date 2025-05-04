@@ -13,4 +13,5 @@
 | Dusty Bone        | `#ccc5b9` |
 
 
-I'll make a pallette sheet and add it as an image in docs
+<!-- I'll make a pallette sheet and add it as an image in docs -->
+![Colour Scheme](docs/vecna colour scheme.png)
