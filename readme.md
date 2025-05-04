@@ -14,4 +14,4 @@
 
 
 <!-- I'll make a pallette sheet and add it as an image in docs -->
-![Colour Scheme](docs/vecna colour scheme.png)
+![Colour Scheme](src/docs/vecna_colour_scheme.png)
