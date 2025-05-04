@@ -11,3 +11,6 @@
 | Sick/Necrotic Green | `#3b8d57` |
 | Arcane Purple     | `#5e548e` |
 | Dusty Bone        | `#ccc5b9` |
+
+
+I'll make a pallette sheet and add it as an image in docs
